@@ -8,3 +8,5 @@ No installation is necessary for this live website to function.
 In this assignment, I received the HTML and CSS files and some of the JS code. The function that prints the generated password on the screen was already implemented. However, I was tasked with writing the actual function to generate the password.
 ## Usage
 Link:
+https://paolacaceresoma.github.io/Password-Generator/
+https://github.com/paolacaceresoma/Password-Generator
