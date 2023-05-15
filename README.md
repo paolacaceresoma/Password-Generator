@@ -9,4 +9,5 @@ In this assignment, I received the HTML and CSS files and some of the JS code. T
 ## Usage
 Link:
 https://paolacaceresoma.github.io/Password-Generator/
+
 https://github.com/paolacaceresoma/Password-Generator
